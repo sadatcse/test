@@ -1,0 +1,21 @@
+.h1header, #anotherid {
+    color: aqua;
+    text-align: center;
+}
+
+
+.blogpara {
+
+    background-color: blue;
+    
+    border: 2px salmon;
+    border-bottom: 10px solid ;
+    border-radius: 10px;
+    margin: 20px;
+
+}
+*{
+background-image: url(/Images/background.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
